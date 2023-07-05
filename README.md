@@ -53,4 +53,7 @@
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
+## Resources
 
+- Omdena Local chapter [Link](https://omdena.com/projects/improving-extreme-weather-forecasts-using-ai/)
+- Omdena Main Github [Link](https://github.com/OmdenaAI/silicon-valley-chapter-extreme-weather/tree/main)
